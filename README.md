@@ -9,3 +9,8 @@
  1. 不同的官网数据在不同的表单里，但都储存在一个表中
  2. 官网为：1. 山大要闻，https://www.view.sdu.edu.cn/sdyw.htm     
            2. 山大日记，https://www.sdrj.sdu.edu.cn/mrtt.htm
+## 4.具体说明
+1. 依赖项：python
+2. 功能：定时爬取官网数据
+3. 结果：得到excel文档
+4. 测试截图：
